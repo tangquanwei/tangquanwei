@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tangquanwei
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Haskell language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in M-LLM/RAG
 - 📫 How to reach me qq-mail: 1076451802@qq.com
 
 <!---
