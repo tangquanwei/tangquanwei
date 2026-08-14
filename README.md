@@ -1,8 +1,10 @@
 <div align="center">
 
-# Quanwei Tang
+# Hi👋 I'm Quanwei Tang 
 
-### Speech AI Researcher · Speech LLM · Voice Agent · Reinforcement Learning
+[🧑🏻‍💻 My Blog](https://blog.quanwei.fun/)
+
+### Speech AI Researcher · Speech LLM · Voice Agent · Reinforcement Learning 
 
 *Building speech-native AI systems that can listen, reason, act, remember, and learn.*
 
@@ -27,6 +29,7 @@ Sequence-level optimization for ASR and Speech LLMs, especially objectives beyon
 ### 🔎 Speech Retrieval & Memory
 
 Contextual biasing, hotword retrieval, personalized memory, and retrieval over long-term spoken interactions.
+
 
 ---
 
