@@ -2,6 +2,8 @@
 
 # Hi👋 I'm Quanwei Tang 
 
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/6a98df5d-3255-4c63-a51b-0a821d0f1c03" />
+
 [🧑🏻‍💻 My Blog](https://blog.quanwei.fun/)
 
 ### Speech AI Researcher · Speech LLM · Voice Agent · Reinforcement Learning 
